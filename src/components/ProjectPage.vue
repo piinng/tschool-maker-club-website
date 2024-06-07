@@ -78,7 +78,7 @@
                         Title: '小夜燈工作坊',
                         Author: '創客社',
                         Date: 'Nov. 29, 2023',
-                        content: '與北市大同高中 Robot maker 社團進行交流，透過工作坊三個下午的時間，製作獨一無二的小夜燈。',
+                        content: '與北市大同高中 Robot maker 社團進行交流，透過三個下午的時間，舉辦工作坊製作獨一無二的小夜燈。',
                         ReadMoreLink: '',
                     },
                 ]
