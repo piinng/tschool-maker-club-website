@@ -8,9 +8,9 @@
         </div>
         <div class="w3-col m8 w3-panel">
         <div class="w3-large w3-margin-bottom">
-            <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i>104台北市中山區吉林路110號5樓(吉林學習基地)<br>
-            <i class="fa fa-instagram fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i>tschool_maker<br>
-            <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i>maker@tschool.tp.edu.tw<br>
+            <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i><a href="https://maps.app.goo.gl/g68JeVwu2eZdDETy8" target="_blank" style="text-decoration:none;">104台北市中山區吉林路110號5樓(吉林學習基地)</a><br>
+            <i class="fa fa-instagram fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i><a href="https://www.instagram.com/tschool_maker" target="_blank" style="text-decoration:none;">tschool_maker</a><br>
+            <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i><a href="mailto:maker@tschool.tp.edu.tw" style="text-decoration:none;">maker@tschool.tp.edu.tw</a><br>
         </div>
         </div>
         
